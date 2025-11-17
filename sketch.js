@@ -553,7 +553,7 @@ function drawBlockLights() {
     let col = color(b.color);
 
     // Let each block beat slightly differently
-    let t = frameCount * flashBaseSpeed + i * 0.8;
+    let t = frameCount * flashBaseSpeed + i * 0.8;  // https://p5js.org/reference/p5/frameCount/
     let brightness = (sin(t) + 1) * 0.5; // 0~1
     let alpha = lerp(40, 200, brightness);
 
