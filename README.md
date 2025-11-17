@@ -18,7 +18,7 @@ Upon entering this painting, you'll be in daylight mode. Press the P key to acti
 ### Individual approach to animating the group code
 - **User Input**:Incorporate mouse or keyboard inputs for animation.
 One reason my animation differs from my group members' is that our chosen interactive effects led to variations in theme and execution. My concept focused on making this exhibition piece alive. My animation modifications altered the artwork's spatial arrangement, lighting, and structural behavior—rather than its color, shape, or visibility layers. This created a god's-eye perspective, revealing how the artwork transforms between daytime and nighttime when no visitors are present. I developed an interactive effect that responds to mouse movement—something my team members couldn't achieve—and fully utilized keyboard and mouse clicks to dynamically alter the artwork's form and lighting.
-##### Team member's pitch
+- **Team Member's Pitch**
 **Member A**
 
 Animation Drive Method: **Audio**
