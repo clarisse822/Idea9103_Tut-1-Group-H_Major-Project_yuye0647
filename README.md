@@ -12,8 +12,8 @@ This work supports mouse movement, mouse clicks, and a set of keyboard controls 
 - Keyboard press "**S**", nighttime Only: Jitter Deconstruction Effect
 - Nighttime only: Click the mouse to activate the building block's flashing effect.
 - Nighttime Only: Mouse-follow moonlight halo lighting effect
-Upon entering this painting, you'll be in daylight mode. 
-Press the P key to activate the flash photography effect. Pressing N will gradually transition to night mode, where a moonlight halo appears around your mouse cursor to illuminate the scene. Clicking the mouse causes building blocks to flash. Pressing ‘m’ simulates bustling traffic, while pressing ‘s’ represents the scene collapsing and deconstructing. Users can stop interactive effects at any time using the corresponding interaction methods. Pressing ‘d’ to return to daylight mode halts all interactions, while returning to night mode resumes them.
+
+Upon entering this painting, you'll be in daylight mode. Press the P key to activate the flash photography effect. Pressing N will gradually transition to night mode, where a moonlight halo appears around your mouse cursor to illuminate the scene. Clicking the mouse causes building blocks to flash. Pressing ‘m’ simulates bustling traffic, while pressing ‘s’ represents the scene collapsing and deconstructing. Users can stop interactive effects at any time using the corresponding interaction methods. Pressing ‘d’ to return to daylight mode halts all interactions, while returning to night mode resumes them.
 
 ### Individual approach to animating the group code
 - **User Input**:Incorporate mouse or keyboard inputs for animation.
@@ -38,6 +38,7 @@ Animation Drive Method: **Perlin noise and randomness**
 - Slider 1: Controls the speed and frequency of color changes
 - Slider 2: Controls the amplitude of wave motion or the “breathing sensation”
 - Marquee-like effect keeps the pattern flowing continuously through space
+
 My personal idea is that this painting is exposed to flashlight during the day, yet quietly comes to life at night. Therefore, I added a gradient transition between Daylight Mode and Night Mode, along with interactive effects that appear on the painting at night. When re-exposed to daylight, everything ceases.
 ### References to inspiration for animating your individual code
 This idea didn't stem from any specific source of inspiration. Instead, it was sparked by the themes of novels and films I'd previously encountered, which I then integrated with the subject matter of our work to develop my project in this direction.
